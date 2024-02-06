@@ -1,0 +1,6 @@
+--index-url http://artifactory.amerhonda.com:8081/artifactory/api/pypi/python-binaries/simple
+--trusted-host artifactory.amerhonda.com
+
+fastapi==0.85.0; python_version >= "3.6"
+uvicorn==0.18.3; python_version >= "3.6"
+python-dotenv==1.0.1
